@@ -1,6 +1,6 @@
 # What is this shit?
 
-This a custom configuration fo NvChad. Contains settings for required Lsps, and all.
+This a custom configuration for NvChad. Contains settings for required Lsps, and all.
 
 # Installation
 
