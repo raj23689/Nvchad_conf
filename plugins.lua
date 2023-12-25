@@ -24,7 +24,7 @@ local plugins = {
         "css-lsp",
         "svelte-language-server",
         "vue-language-server",
-        -- "astro-language-server",
+        "astro-language-server",
       },
     },
   },
